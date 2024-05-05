@@ -1,0 +1,3 @@
+Udacity- AIML programming with python
+Coursera- Deep learning specilization
+LinkedIn- Advanced machine learning

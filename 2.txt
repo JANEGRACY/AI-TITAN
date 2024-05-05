@@ -1,0 +1,3 @@
+Deeplearning.ai- Deep learning specialization
+edX- Introduction to AI
+Kaggle- Intermediate Machine learning
